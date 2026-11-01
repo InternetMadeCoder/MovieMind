@@ -1,0 +1,31 @@
+User ID,Top Training Genres,Rank,Recommended Movie,Genres,Bayesian Rating,Held-Out Test Hit
+5,"Comedy, Action, Sci-Fi",1,"Empire Strikes Back, The (1980)",Action | Adventure | Drama | Romance | Sci-Fi | War,4.159999847412109,Yes (★)
+5,"Comedy, Action, Sci-Fi",2,Aladdin (1992),Animation | Children's | Comedy | Musical,3.809999942779541,Yes (★)
+5,"Comedy, Action, Sci-Fi",3,Star Trek: First Contact (1996),Action | Adventure | Sci-Fi,3.619999885559082,Yes (★)
+5,"Comedy, Action, Sci-Fi",4,Young Frankenstein (1974),Comedy | Horror,3.930000066757202,Yes (★)
+5,"Comedy, Action, Sci-Fi",5,Terminator 2: Judgment Day (1991),Action | Sci-Fi | Thriller,4.0,No
+5,"Comedy, Action, Sci-Fi",6,Alien (1979),Action | Horror | Sci-Fi | Thriller,3.9800000190734863,Yes (★)
+5,"Comedy, Action, Sci-Fi",7,Groundhog Day (1993),Comedy | Romance,3.759999990463257,No
+5,"Comedy, Action, Sci-Fi",8,Star Trek IV: The Voyage Home (1986),Action | Adventure | Sci-Fi,3.4600000381469727,No
+5,"Comedy, Action, Sci-Fi",9,"Terminator, The (1984)",Action | Sci-Fi | Thriller,3.930000066757202,No
+5,"Comedy, Action, Sci-Fi",10,Army of Darkness (1993),Action | Adventure | Comedy | Horror | Sci-Fi,3.4600000381469727,No
+16,"Drama, Comedy, Thriller",1,Schindler's List (1993),Drama | War,4.400000095367432,Yes (★)
+16,"Drama, Comedy, Thriller",2,"Princess Bride, The (1987)",Action | Adventure | Comedy | Romance,4.130000114440918,No
+16,"Drama, Comedy, Thriller",3,Apollo 13 (1995),Action | Drama | Thriller,3.9200000762939453,Yes (★)
+16,"Drama, Comedy, Thriller",4,E.T. the Extra-Terrestrial (1982),Children's | Drama | Fantasy | Sci-Fi,3.7799999713897705,Yes (★)
+16,"Drama, Comedy, Thriller",5,"Godfather: Part II, The (1974)",Action | Crime | Drama,4.159999847412109,No
+16,"Drama, Comedy, Thriller",6,Psycho (1960),Horror | Romance | Thriller,4.070000171661377,No
+16,"Drama, Comedy, Thriller",7,Dances with Wolves (1990),Adventure | Drama | Western,3.799999952316284,No
+16,"Drama, Comedy, Thriller",8,Star Wars (1977),Action | Adventure | Romance | Sci-Fi | War,4.329999923706055,No
+16,"Drama, Comedy, Thriller",9,"Wizard of Oz, The (1939)",Adventure | Children's | Drama | Musical,4.03000020980835,No
+16,"Drama, Comedy, Thriller",10,"American President, The (1995)",Comedy | Drama | Romance,3.6600000858306885,Yes (★)
+17,"Drama, Comedy, Romance",1,Contact (1997),Drama | Sci-Fi,3.7799999713897705,No
+17,"Drama, Comedy, Romance",2,Toy Story (1995),Animation | Children's | Comedy,3.890000104904175,Yes (★)
+17,"Drama, Comedy, Romance",3,Sense and Sensibility (1995),Drama | Romance,3.9700000286102295,No
+17,"Drama, Comedy, Romance",4,Ransom (1996),Drama | Thriller,3.6700000762939453,No
+17,"Drama, Comedy, Romance",5,"Boot, Das (1981)",Action | Drama | War,4.210000038146973,No
+17,"Drama, Comedy, Romance",6,"Postino, Il (1994)",Drama | Romance,4.019999980926514,No
+17,"Drama, Comedy, Romance",7,Star Wars (1977),Action | Adventure | Romance | Sci-Fi | War,4.329999923706055,No
+17,"Drama, Comedy, Romance",8,Trainspotting (1996),Drama,3.890000104904175,Yes (★)
+17,"Drama, Comedy, Romance",9,Lone Star (1996),Drama | Mystery,4.039999961853027,No
+17,"Drama, Comedy, Romance",10,Mr. Holland's Opus (1995),Drama,3.7899999618530273,No
